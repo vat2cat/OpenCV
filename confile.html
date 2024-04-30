@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask影像處理</title>
+</head>
+<body>
+<style>
+ 
+body 
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2F4F4F;
+    color: #ffffff;
+}
+
+section {   padding: 10px;  }
+
+#projects { display: none; }
+
+</style>
+
+<h1>Flask影像處理功能</h1>
+
+<form method="POST" action="/up01" enctype="multipart/form-data"></form>
+<form>
+    <li><button type="submit" formaction="/up">將圖片變為黑白色</button></li>
+    <li><button type="submit" formaction="/crop">將圖片影像剪裁、變色後</button></li>
+    <li><button type="submit" formaction="/resize">在網頁終將圖片變色並依user指定的位置進行兩倍縮放</button></li>
+    <li><button type="submit" formaction="/flip">將圖片變色並進行上下翻轉</button></li>
+    <li><button type="submit" formaction="/flip2">將圖片變色並進行上下左右翻轉</button></li>
+</form>
+
+</body>
+</html>
