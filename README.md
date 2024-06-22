@@ -8,7 +8,7 @@
 ![Default_A_Shiba_Inu_running_on_the_snowy_of_Kyoto_in_winter_1](https://github.com/vat2cat/OpenCV/assets/160461838/d6457cf6-ec5b-4731-b987-d40b78775ebc)
 
 影像裁剪：
-![cropped_image](https://github.com/vat2cat/OpenCV/assets/160461838/c4100dc9-e0c5-478a-93ad-215bd27d42d9)
+![螢幕擷取畫面 2024-06-22 223439](https://github.com/vat2cat/OpenCV/assets/160461838/ac9eec8a-6e17-4765-aaaa-49db9f28c8d6)
 
 影像翻轉(上下)：
 ![螢幕擷取畫面 2024-06-22 222837](https://github.com/vat2cat/OpenCV/assets/160461838/5fc9494d-586e-47fb-a706-197bfde047cc)
